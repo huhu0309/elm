@@ -1,0 +1,8 @@
+一键获取CK软件下载链接
+https://mkjd.lanzoul.com/i6J3q16enmjg
+
+下载-安装-登录-找到设置-关于饿了么就可以一键复制appck
+
+关于资产推送：找到脚本文件“sendNotify1.js”从中搜索找到 WX_PUSH_TOKEN= 把后面的字符改为自己的wxpusher Token（是Token，不是UID）Token以下网址自己注册查询 https://wxpusher.zjiecode.com/
+
+青龙运行需要安装NodeJs依赖 request  md5  moment  如还提示其它依赖自己补齐安装即可！
